@@ -1,0 +1,8 @@
+CS0002,Introduction to Computer Programming
+CS0004,Introduction to Web Design and Computer Principles
+CS0060,Database Design and Implementation
+CS0061,Web Development
+CS0101,Introduction to Computer Science
+CS0102,Data Structures
+CS0201,Computer Systems Organization
+CS0380,Special Topics in Computer Science
